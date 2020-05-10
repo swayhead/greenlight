@@ -133,6 +133,7 @@ es:
       title: Administrar usuarios
   add_to_google_calendar: "Agregar al Calendario de Google"
   bigbluebutton: BigBlueButton
+  kidsgo: kidsgo
   bigbluebutton_exception: ¡Oh no! Ocurrió un error al iniciar la sesión.
   cancel: Cancelar
   cookies:
