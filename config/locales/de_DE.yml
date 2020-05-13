@@ -241,6 +241,7 @@ de_DE:
   expired_reset_token: Der Link zum Zurücksetzen des Passworts ist abgelaufen!
   features:
     title: Eigenschaften
+    title_kidsgo: "kidsgo kivi - das können Sie nutzen:"
     rooms: Personalisierte Räume
     recordings: Aufzeichnungsmanagement
     designs: Eigene Designs
@@ -281,6 +282,10 @@ de_DE:
     video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
     version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
+    welcome_kidsgo: Willkommen bei kivi
+    welcome2_kidsgo: Ihrem kidsgo Tool für Videokurse, Online-Konferenzen, Treffen und Veranstaltungen
+    about_kidsgo: "Hier können Sie Ihre Online-Kurse starten, aufzeichen und verwalten. Mehr Infos dazu auf %{href}."
+    video_kidsgo:  Schauen Sie sich die englischsprachige Anleitung zur Verwendung von Greenlight an
   language_default: Voreinstellung (Browsersprache)
   ldap_error: "Verbindung zum LDAP Server konnte nicht hergestellt werden. Bitte überprüfen Sie die LDAP Konfiguration und stellen Sie sicher, dass der LDAP-Server läuft."
   login: Einloggen

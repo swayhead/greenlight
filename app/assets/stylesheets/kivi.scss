@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+	&.kivi {
+		font-family: 'Lato', 'Source Sans Pro', sans-serif !important;
+	}
+	
+}
+
+.bg-magenta {
+	background-color: #c06 !important;
+}
+
+.kivi-link {
+	& .bold {
+		font-weight: bold;
+	} 
+} 

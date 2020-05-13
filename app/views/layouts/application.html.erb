@@ -28,7 +28,7 @@
       </script>
     <% end %>
 
-    <title><%= t("kidsgo") %></title>
+    <title>kivi - kidsgo Videotool</title>
     <meta property="og:title" content="<%= t("bigbluebutton", locale: :en) %>" />
     <meta property="og:type" content="website" />
     <meta property="og:description" content="<%= t("landing.about", href: "Greenlight", locale: :en) %>" />
@@ -36,6 +36,11 @@
     <meta property="og:image" content="<%= logo_image %>" />
 
     <meta name="viewport" content= "width=device-width, user-scalable=no">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://www.kidsgo.de/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="https://www.kidsgo.de/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="https://www.kidsgo.de/android-chrome-192x192.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="https://www.kidsgo.de/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="https://www.kidsgo.de/favicon-16x16.png" sizes="16x16">
     <%= csrf_meta_tags %>
 
     <!-- Global javascript variables and helpers. -->
@@ -58,7 +63,7 @@
     </script>
   </head>
 
-  <body class="app-background" data-controller="<%= params[:controller] %>" data-action="<%= params[:action] %>" data-relative-root="<%= Rails.configuration.relative_url_root || "/" %>">
+  <body class="app-background kivi" data-controller="<%= params[:controller] %>" data-action="<%= params[:action] %>" data-relative-root="<%= Rails.configuration.relative_url_root || "/" %>">
     <%= render "shared/header" %>
 
     <div class="wrapper">
