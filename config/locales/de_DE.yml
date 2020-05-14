@@ -282,8 +282,8 @@ de_DE:
     video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
     version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
-    welcome_kidsgo: Willkommen bei kivi
-    welcome2_kidsgo: Ihrem kidsgo Tool für Videokurse, Online-Konferenzen, Treffen und Veranstaltungen
+    welcome_kidsgo: kivi
+    welcome2_kidsgo: das kidsgo Videotool für deine Online-Kurse, Veranstaltungen und Treffen
     about_kidsgo: "Hier können Sie Ihre Online-Kurse starten, aufzeichen und verwalten. Mehr Infos dazu auf %{href}."
     video_kidsgo:  Schauen Sie sich die englischsprachige Anleitung zur Verwendung von Greenlight an
   language_default: Voreinstellung (Browsersprache)
@@ -310,16 +310,16 @@ de_DE:
         root_link: Einloggen
         subtitle: "%{role} Rechte entzogen"
       invite:
-        info: "Sie wurden von %{name} in Ihren persönlichen Bereich eingeladen"
-        signup_info: "Um sich mit Ihrer E-Mail anzumelden, klicken Sie den untenstehenden Button und folgen Sie den Schritten."
+        info: "Du wurdest zur Teilnahme am kidsgo Videotool kivi eingeladen"
+        signup_info: "Klick auf den Button und schon gelangst du zu deiner Registrierung und deiner individuellen Startseite."
         signup_link: Registrieren
         signup:
-          info: Ein eingeladener Nutzer hat sich bei Greenlight registriert.
+          info: Ein eingeladener Nutzer hat sich bei kivi registriert.
           admins_link: Organisationsseite besuchen
-          subject: Registrierung neuer Greenlight-Nutzer
+          subject: Registrierung neuer kivi-Nutzer
           username: "Der Nutzer hat sich mit dem Namen %{name} und der E-Mail %{email} registriert."
-        subject: Einladung zur BigBlueButton-Teilnahme
-        username: "Ihr Nutzername ist %{email}."
+        subject: Du wurdest von kidsgo eingeladen
+        username: "Dein Benutzername ist %{email}."
       password_reset:
         title: 'Passwort zurücksetzen'
         welcome: "Es wurde eine Passwortrücksetzung für die E-Mail-Adresse <b>%{email}</b> angefordert."
